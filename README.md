@@ -18,11 +18,11 @@
 
 🌱 Live link: [please click here](https://aliaydogdu105.github.io/coursera-module2-coding/)
 
-For desktop:
+For desktop:<br>
 ![desktop](images/desktop.png)
 
-For tablet:
+For tablet:<br>
 ![tablet](images/tablet.png)
 
-For mobile:
+For mobile:<br>
 ![mobile](images/mobile.png)
